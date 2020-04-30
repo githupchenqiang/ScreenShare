@@ -28,6 +28,7 @@
     [super viewDidLoad];
     [self setupSocket];
     [self.view addSubview:self.broadPickerView];
+    //切换分支了,查看是否有x影响
 }
 //getMedia
 
